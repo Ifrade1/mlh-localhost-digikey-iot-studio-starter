@@ -1,5 +1,5 @@
 {
-  "name": "MLH Localhost: Ax's Tank Monitor",
+  "name": "MLH Localhost: Ada's Tank Monitor",
   "createVersion": "2017-08-12",
   "description": "Final Project code for MLH Localhost / Digi-Key IoT Studio workshop.",
   "lastModified": "2019-11-14T14:55:04.856Z",
@@ -1240,7 +1240,7 @@
               }
             },
             "visible": true,
-            "text": "Ax's Tank Monitor",
+            "text": "Ada's Tank Monitor",
             "font": "32px Helvetica",
             "color": " #51a8f9",
             "alignment": "center"
